@@ -1,20 +1,12 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+Penugasan Ulangan Akhir Semester Genap
+Mata Kuliah Aplikasi Komputer 2
+Dosen : Rayi Dwipanilih, S.E., S.Kom., M.Kom.
 
-# Run and deploy your AI Studio app
+deskripsi aplikasi :
+Dikerjakan oleh :
+- Nathaya Racchma Jilly (1712425035)
+- Putri Evilin Simanjuntak (17124250127)
+Fakultas Ekonomi dan Bisnis
+D4 Administrasi Perkantoran Digital B 2025
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/26b407f7-d5c2-495c-905d-331c3d9b2bf7
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+(Dikumpulkan hari minggu, 28 Juni 2026)
