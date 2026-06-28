@@ -1,0 +1,6 @@
+{
+  "name": "FindMyCafé",
+  "description": "Platform review coffeeshop interaktif dengan database cafe lengkap, filter kategori, rating bintang, dan sistem autentikasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
